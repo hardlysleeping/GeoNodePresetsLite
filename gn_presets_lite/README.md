@@ -48,6 +48,11 @@ Presets are stored on the node group, which means:
 **From a ZIP:** **Edit → Preferences → Get Extensions → dropdown → Install from Disk**, pick
 `GN-Presets-Lite-1.0.0.zip`, then enable **GN Presets Lite**.
 
+**With updates:** in **Edit → Preferences → Extensions → Repositories → Manage Repositories**, add
+`https://hardlysleeping.github.io/GeoNodePresetsLite/index.json` as a repository, then install
+**GN Presets Lite** from it. Blender checks that index for new versions and installs them with its
+**Update** button.
+
 Lite can be installed next to the full GN Presets add-on; it reuses the library the full
 version writes instead of defining a second one.
 
