@@ -58,7 +58,8 @@ version writes instead of defining a second one.
 2. The asset is shared as a `.blend`, an appended node group, or a linked asset library.
 3. The recipient installs **GN Presets Lite** and opens the asset: the preset dropdown is
    populated and every preset can be recalled.
-4. Editing the list itself needs the full add-on.
+4. Editing the list itself needs the full add-on:
+   [github.com/hardlysleeping/GeoNodePresets](https://github.com/hardlysleeping/GeoNodePresets).
 
 ## Animation presets
 
