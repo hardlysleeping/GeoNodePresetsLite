@@ -1,0 +1,31 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "gn_presets_lite",
+      "name": "GN Presets Lite",
+      "tagline": "Recall shared Geometry Nodes presets without editing them",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "GN Presets contributors",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.2.0",
+      "blender_version_max": "5.3.0",
+      "website": "https://github.com/hardlysleeping/GeoNodePresetsLite",
+      "copyright": [
+        "2026 GN Presets contributors"
+      ],
+      "tags": [
+        "Geometry Nodes",
+        "User Interface"
+      ],
+      "archive_url": "./gn_presets_lite-1.0.0.zip",
+      "archive_size": 16388,
+      "archive_hash": "sha256:527e50f77a25efa382490f475314b94ed79e469cfe56cdb81696abc39fd4810b"
+    }
+  ]
+}
