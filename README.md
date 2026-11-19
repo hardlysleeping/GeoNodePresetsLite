@@ -46,7 +46,7 @@ Presets are stored on the node group, which means:
 ## Install
 
 **From a ZIP:** **Edit → Preferences → Get Extensions → dropdown → Install from Disk**, pick
-`GN-Presets-Lite-1.0.0.zip`, then enable **GN Presets Lite**.
+`GN-Presets-Lite-1.0.1.zip`, then enable **GN Presets Lite**.
 
 **With updates:** in **Edit → Preferences → Extensions → Repositories → Manage Repositories**, add
 `https://hardlysleeping.github.io/GeoNodePresetsLite/index.json` as a repository, then install

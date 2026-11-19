@@ -1,13 +1,12 @@
 schema_version = "1.0.0"
 id = "gn_presets_lite"
-version = "1.0.0"
+version = "1.0.1"
 name = "GN Presets Lite"
 tagline = "Recall shared Geometry Nodes presets without editing them"
 maintainer = "GN Presets contributors"
 type = "add-on"
 tags = ["Geometry Nodes", "User Interface"]
 blender_version_min = "5.2.0"
-blender_version_max = "5.3.0"
 license = ["SPDX:GPL-3.0-or-later"]
 copyright = ["2026 GN Presets contributors"]
 
